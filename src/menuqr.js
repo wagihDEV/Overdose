@@ -14,7 +14,7 @@ function MenuQR() {
 
     return (<div>
         <img
-            style={{ width: "5rem", height: "5rem" }}
+            style={{ width: "6rem", height: "6rem" }}
             src={src}
         />
     </div>);
