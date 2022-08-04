@@ -7,7 +7,7 @@ function MenuQR() {
     const [src, setSrc] = useState("");
 
     useEffect(() => {
-        QRCode.toDataURL("https://seniorproject-frontend.herokuapp.com/menu").then(
+        QRCode.toDataURL("https://overdoselb.netlify.app").then(
             (data) => setSrc(data)
         );
     }, []);

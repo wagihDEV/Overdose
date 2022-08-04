@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Menu from "./Menu";
 import Categories from "./Categories";
 import items from "./data";
+import MenuQR from "./menuqr";
 
 const allCategories = ["all", ...new Set(items.map((item) => item.category))];
 
@@ -23,7 +24,7 @@ const App = () => {
     <main>
       <section className="menu section">
         <div className="title">
-         
+         {/* <MenuQR /> */}
           <h2>Menu List</h2>
           <div className="underline"></div>
         </div>
