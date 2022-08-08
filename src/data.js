@@ -28,7 +28,7 @@ const menu = [
       title: 'Hersheys',
       category: 'Pancake balls',
       price: "80,000",
-      img: './images/item-4.jpeg',
+      img: 'https://i.ibb.co/F4qK5LQ/pancake.jpg',
       desc: ` 9 pancake balls,chocolate,white chocolate and Hersheys `,
     },
     {

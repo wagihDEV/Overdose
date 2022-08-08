@@ -5,6 +5,7 @@ import items from "./data";
 import MenuQR from "./menuqr";
 
 
+
 const allCategories = ["all", ...new Set(items.map((item) => item.category))];
 
 const App = () => {
@@ -26,6 +27,7 @@ const App = () => {
       <section className="menu section">
         <div className="title">
          {/* <MenuQR /> */}
+         <img src={"https://i.ibb.co/4PWmBPf/C4-D6-C8-AF-E64-D-44-C7-93-EA-EFDE667-F212-B.jpg"} alt="logo" className="logo" />
           <h2>Menu List</h2>
           <div className="underline"></div>
         </div>
