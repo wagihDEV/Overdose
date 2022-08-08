@@ -4,6 +4,7 @@ import Categories from "./Categories";
 import items from "./data";
 import MenuQR from "./menuqr";
 
+
 const allCategories = ["all", ...new Set(items.map((item) => item.category))];
 
 const App = () => {
