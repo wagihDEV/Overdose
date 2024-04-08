@@ -60,7 +60,7 @@ p {
 .underline {
   width: 9rem;
   height: 0.25rem;
-  background: #3499d7;
+  background: #3493d7;
   margin-left: auto;
   margin-right: auto;
 }
@@ -116,7 +116,7 @@ p {
 .logo {
   object-fit: cover;
   height: auto;
-  width: 200px;
+  width: 40vw;
   border-radius: 0.25rem;  
 }
 

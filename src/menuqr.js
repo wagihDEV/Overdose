@@ -7,7 +7,7 @@ function MenuQR() {
     const [src, setSrc] = useState("");
 
     useEffect(() => {
-        QRCode.toDataURL("https://overdoselb.netlify.app").then(
+        QRCode.toDataURL("https://overdose.onrender.com/").then(
             (data) => setSrc(data)
         );
     }, []);
