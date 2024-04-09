@@ -13,10 +13,11 @@ const Menu = ({ items }) => {
                     <article key={id} className="menu-item">
                         
                         <div className="item-info">
-                            <header>
-                                <h4>{title}</h4>
-                                <h4 className="price">    {price}$</h4>
-                            </header>
+                        <header>
+                         <h4>{title}</h4>
+                         <h4 className="price" style="margin-left: 10px;">{price}$</h4>
+                        </header>
+
                             
                         </div>
                     </article>
