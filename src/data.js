@@ -3,7 +3,7 @@ const menu = [
       id: 1,
       title: 'Chocolate',
       category: 'Pancake balls',
-      price: "3.5",
+      price: "3",
      
       
     },
