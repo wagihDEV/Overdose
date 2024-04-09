@@ -43,7 +43,7 @@ p {
   max-width: 1170px;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 480px) {
   .section {
     width: 95vw;
   }
