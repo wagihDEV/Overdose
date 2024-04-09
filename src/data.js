@@ -149,12 +149,6 @@ const menu = [
         price: "55,000",
        
       },
-      {
-        id: 22,
-        title: 'Nutella',
-        category: 'Crepes',
-        price: "5",
-       
-      },
+      
   ];
   export default menu;
