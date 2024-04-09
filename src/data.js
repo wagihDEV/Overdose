@@ -146,7 +146,7 @@ const menu = [
         id: 21,
         title: 'freezy',
         category: 'Freezy',
-        price: "55,000",
+        price: "4",
        
       },
       {
@@ -156,6 +156,98 @@ const menu = [
         price: "55,000",
        
       },
+      {
+        id: 23,
+        title: 'Plain',
+        category: 'Tiramisu',
+        price: "3.5",
+       
+      },
+      {
+        id: 24,
+        title: 'Oreo',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 25,
+        title: 'Mars',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 26,
+        title: 'Twix',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 27,
+        title: 'Maltesers',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 28,
+        title: 'KitKat',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 29,
+        title: 'Crunch',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 30,
+        title: 'Brownie',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 31,
+        title: 'Lotus',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 32,
+        title: 'Galaxy',
+        category: 'Tiramisu',
+        price: "4.5",
+       
+      },
+      {
+        id: 33,
+        title: 'Kinder',
+        category: 'Tiramisu',
+        price: "5",
+       
+      },
+      {
+        id: 34,
+        title: 'Milka',
+        category: 'Tiramisu',
+        price: "5",
+       
+      },
+      {
+        id: 34,
+        title: 'Nutella',
+        category: 'Tiramisu',
+        price: "6",
+       
+      },
+      
       
   ];
   export default menu;
