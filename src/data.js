@@ -1,17 +1,17 @@
 const menu = [
     {
       id: 1,
-      title: 'Chocolateee',
+      title: 'Chocolate',
       category: 'Pancake balls',
-      price: "60,000",
+      price: "3.5",
      
       
     },
     {
       id: 2,
-      title: 'Maltesers',
+      title: 'White chocolate',
       category: 'Pancake balls',
-      price: "80,000",
+      price: "3.5",
       
       
     },
@@ -19,7 +19,7 @@ const menu = [
       id: 3,
       title: 'Twix',
       category: 'Pancake balls',
-      price: "75,000",
+      price: "4",
       
       
     },
@@ -27,14 +27,14 @@ const menu = [
       id: 4,
       title: 'Hersheys',
       category: 'Pancake balls',
-      price: "80,000",
+      price: "4.5",
       
     },
     {
       id: 5,
       title: 'galaxy',
       category: 'Pancake balls',
-      price: "80,000",
+      price: "4",
      
     },
     {
@@ -48,98 +48,98 @@ const menu = [
       id: 7,
       title: 'Daim',
       category: 'Pancake balls',
-      price: "80,000",
+      price: "5",
       
     },
     {
       id: 8,
-      title: 'Toblerone',
+      title: 'Ferrero',
       category: 'Pancake balls',
-      price: "80,000",
+      price: "5.5",
       
     },
     {
       id: 9,
       title: 'KitKat',
       category: 'Pancake balls',
-      price: "75,000",
+      price: "4",
      
     },
     {
         id: 10,
         title: 'Lotus',
         category: 'Pancake balls',
-        price: "80,000",
+        price: "4.5",
        
       },
       {
         id: 11,
         title: 'Brownie',
         category: 'Pancake balls',
-        price: "75,000",
+        price: "4",
         
       },
       {
         id: 12,
         title: 'Mars',
         category: 'Pancake balls',
-        price:"75,000",
+        price:"4",
         
       },
       {
         id: 13,
-        title: 'white chocolate',
+        title: 'Raffaello',
         category: 'Pancake balls',
-        price: "65,000",
+        price: "5.5",
        
       },
       {
         id: 14,
         title: 'Oreo',
         category: 'Pancake balls',
-        price: "70,000",
+        price: "4",
        
       },
       {
         id: 15,
-        title: 'Crunch',
+        title: 'Kinderini',
         category: 'Pancake balls',
-        price: "75,000",
+        price: "5.5",
        
       },
       {
         id: 16,
         title: 'Milka',
         category: 'Pancake balls',
-        price: "80,000",
+        price: "5",
         
       },
       {
         id: 17,
         title: 'Overdose',
         category: 'Pancake balls',
-        price: "100,000",
+        price: "6",
        
       },
       {
         id: 18,
-        title: 'Mix2',
+        title: '2xFlavors',
         category: 'Pancake balls',
-        price: "85,000",
+        price: "4.5",
         
       },
       {
         id: 19,
-        title: 'Mix3',
+        title: '3xFlavors',
         category: 'Pancake balls',
-        price: "90,000",
+        price: "5",
        
       },
       {
         id: 20,
-        title: 'lion',
+        title: 'Maltesers',
         category: 'Pancake balls',
-        price: "80,000",
+        price: "4.5",
        
       },
       {
