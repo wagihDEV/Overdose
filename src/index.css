@@ -129,9 +129,12 @@ p {
   margin-bottom: 0.5rem;
   
 }
+.item-info{
+  text-align: right;
+}
 .price {
   color: #3499d7;
-  margin-left: auto;
+  
   
 }
 .item-text {
