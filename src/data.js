@@ -233,13 +233,7 @@ const menu = [
         price: "5",
        
       },
-      {
-        id: 34,
-        title: 'Milka',
-        category: 'Tiramisu',
-        price: "5",
-       
-      },
+     
       {
         id: 34,
         title: 'Nutella',
