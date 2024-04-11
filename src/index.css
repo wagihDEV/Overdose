@@ -68,7 +68,7 @@ p {
 .btn-container {
   display: flex;
   justify-content: center;
-  width:80%;
+  width:50%;
   padding:1rem;
   margin:auto;
 
