@@ -27,7 +27,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #61dafb;
 }
 
 .App-link {
@@ -44,7 +44,7 @@
 }
 
 .form {
-  background: #fff;
+  background: #61dafb;
   max-width: 2.5vw;
   margin: 0 auto;
   margin-bottom: 4rem;

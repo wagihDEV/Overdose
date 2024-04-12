@@ -28,8 +28,8 @@ const App = () => {
         <div className="title">
          {/* <MenuQR /> */}
          <img src={"https://i.ibb.co/4PWmBPf/C4-D6-C8-AF-E64-D-44-C7-93-EA-EFDE667-F212-B.jpg"} alt="logo" className="logo" />
-          <h2>Menu List</h2>
-          <div className="underline"></div>
+          {/* <h2>Menu List</h2>
+          <div className="underline"></div> */}
         </div>
         <Categories
           categories={categories}
