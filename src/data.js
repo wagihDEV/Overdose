@@ -17,7 +17,7 @@ const menu = [
     },
     {
       id: 3,
-      title: 'Twix',
+      title: 'Oreo',
       category: 'Pancake balls',
       price: "4",
       
@@ -25,49 +25,49 @@ const menu = [
     },
     {
       id: 4,
-      title: 'Hersheys',
+      title: 'KitKat',
       category: 'Pancake balls',
       price: "4.5",
       
     },
     {
       id: 5,
-      title: 'galaxy',
+      title: 'Crunch',
       category: 'Pancake balls',
       price: "4",
      
     },
     {
       id: 6,
-      title: 'plain',
-      category: 'Freezy',
-      price: "35,000",
+      title: 'Maltesers',
+      category: 'Pancake balls',
+      price: "4.5",
      
     },
     {
       id: 7,
-      title: 'Daim',
+      title: 'Galaxy',
       category: 'Pancake balls',
-      price: "5",
+      price: "4.5",
       
     },
     {
       id: 8,
-      title: 'Ferrero',
+      title: 'Hersheys',
       category: 'Pancake balls',
-      price: "5.5",
+      price: "4.5",
       
     },
     {
       id: 9,
-      title: 'KitKat',
+      title: 'Kinder',
       category: 'Pancake balls',
       price: "4",
      
     },
     {
         id: 10,
-        title: 'Lotus',
+        title: 'Brownie',
         category: 'Pancake balls',
         price: "4.5",
        
@@ -81,44 +81,44 @@ const menu = [
       },
       {
         id: 12,
-        title: 'Mars',
+        title: 'Bueno',
         category: 'Pancake balls',
-        price:"4",
+        price:"4.5",
         
       },
       {
         id: 13,
-        title: 'Raffaello',
-        category: 'Pancake balls',
-        price: "5.5",
-       
-      },
-      {
-        id: 14,
-        title: 'Oreo',
+        title: 'Mars',
         category: 'Pancake balls',
         price: "4",
        
       },
       {
-        id: 15,
-        title: 'Kinderini',
+        id: 14,
+        title: 'Daim',
         category: 'Pancake balls',
-        price: "5.5",
+        price: "5",
+       
+      },
+      {
+        id: 15,
+        title: 'Twix',
+        category: 'Pancake balls',
+        price: "4",
        
       },
       {
         id: 16,
         title: 'Milka',
         category: 'Pancake balls',
-        price: "5",
+        price: "4.5",
         
       },
       {
         id: 17,
-        title: 'Overdose',
+        title: 'Lotus',
         category: 'Pancake balls',
-        price: "6",
+        price: "4.5",
        
       },
       {
@@ -137,23 +137,23 @@ const menu = [
       },
       {
         id: 20,
-        title: 'Maltesers',
+        title: 'Overdose',
         category: 'Pancake balls',
-        price: "4.5",
+        price: "6",
        
       },
       {
         id: 21,
-        title: 'freezy',
+        title: 'Plain',
         category: 'Freezy',
-        price: "4",
+        price: "3.5",
        
       },
       {
         id: 22,
-        title: 'Nutella',
-        category: 'Crepes',
-        price: "55,000",
+        title: 'Freezy',
+        category: 'Freezy',
+        price: "4",
        
       },
       {
@@ -239,6 +239,132 @@ const menu = [
         title: 'Nutella',
         category: 'Tiramisu',
         price: "6",
+       
+      },
+      {
+        id: 35,
+        title: 'Nutella',
+        category: 'Crepes',
+        price: "4",
+       
+      },
+      {
+        id: 36,
+        title: 'Nutella White Chocolate',
+        category: 'Crepes',
+        price: "4",
+       
+      },
+      {
+        id: 37,
+        title: 'Nutella Oreo',
+        category: 'Crepes',
+        price: "4.5",
+       
+      },
+      {
+        id: 38,
+        title: 'Nutella KitKat',
+        category: 'Crepes',
+        price: "4.5",
+       
+      },
+      {
+        id: 39,
+        title: 'Nutella Crunch',
+        category: 'Crepes',
+        price: "4.5",
+       
+      },
+      {
+        id: 40,
+        title: 'Nutella Maltesers',
+        category: 'Crepes',
+        price: "5",
+       
+      },
+      {
+        id: 41,
+        title: 'Nutella Galaxy',
+        category: 'Crepes',
+        price: "4.5",
+       
+      },
+      {
+        id: 42,
+        title: 'Nutella Hersheys',
+        category: 'Crepes',
+        price: "5",
+       
+      },
+      {
+        id: 43,
+        title: 'Nutella Kinder',
+        category: 'Crepes',
+        price: "5",
+       
+      },
+      {
+        id: 44,
+        title: 'Nutella Brownie',
+        category: 'Crepes',
+        price: "4.5",
+       
+      },
+      {
+        id: 45,
+        title: 'Nutella Mars',
+        category: 'Crepes',
+        price: "4.5",
+       
+      },
+      {
+        id: 46,
+        title: 'Nutella Twix',
+        category: 'Crepes',
+        price: "4.5",
+       
+      },
+      {
+        id: 47,
+        title: 'Nutella Lotus',
+        category: 'Crepes',
+        price: "5",
+       
+      },
+      {
+        id: 48,
+        title: 'Kinder',
+        category: 'Crepes',
+        price: "5",
+       
+      },
+      {
+        id: 49,
+        title: 'Lotus',
+        category: 'Crepes',
+        price: "5",
+       
+      },
+      {
+        id: 50,
+        title: 'Galaxy',
+        category: 'Crepes',
+        price: "5",
+       
+      },
+      {
+        id: 51,
+        title: 'Strawberry',
+        category: 'Add-Ons',
+        price: "0.5",
+       
+      },
+      {
+        id: 52,
+        title: 'Banana',
+        category: 'Add-Ons',
+        price: "0.5",
        
       },
       
