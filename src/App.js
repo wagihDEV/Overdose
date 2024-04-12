@@ -3,6 +3,7 @@ import Menu from "./Menu";
 import Categories from "./Categories";
 import items from "./data";
 import MenuQR from "./menuqr";
+import logo from "./logo.jpg"
 
 
 
@@ -27,7 +28,7 @@ const App = () => {
       <section className="menu section">
         <div className="title">
          {/* <MenuQR /> */}
-         <img src={"https://i.ibb.co/4PWmBPf/C4-D6-C8-AF-E64-D-44-C7-93-EA-EFDE667-F212-B.jpg"} alt="logo" className="logo" />
+         <img src={logo} alt="logo" className="logo" />
           {/* <h2>Menu List</h2>
           <div className="underline"></div> */}
         </div>
