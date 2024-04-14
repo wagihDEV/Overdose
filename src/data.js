@@ -67,9 +67,9 @@ const menu = [
     },
     {
         id: 10,
-        title: 'Brownie',
+        title: 'Kinderini',
         category: 'Pancake balls',
-        price: "4.5",
+        price: "5.5",
        
       },
       {
