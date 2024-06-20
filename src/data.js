@@ -3,7 +3,7 @@ const menu = [
       id: 1,
       title: 'Chocolate',
       category: 'Pancake balls',
-      price: "3.5",
+      price: "4",
      
       
     },
@@ -11,7 +11,7 @@ const menu = [
       id: 2,
       title: 'White chocolate',
       category: 'Pancake balls',
-      price: "3.5",
+      price: "4",
       
       
     },
@@ -19,7 +19,7 @@ const menu = [
       id: 3,
       title: 'Oreo',
       category: 'Pancake balls',
-      price: "4",
+      price: "4.5",
       
       
     },
@@ -27,84 +27,84 @@ const menu = [
       id: 4,
       title: 'KitKat',
       category: 'Pancake balls',
-      price: "4.5",
+      price: "5",
       
     },
     {
       id: 5,
       title: 'Crunch',
       category: 'Pancake balls',
-      price: "4",
+      price: "4.5",
      
     },
     {
       id: 6,
       title: 'Maltesers',
       category: 'Pancake balls',
-      price: "4.5",
+      price: "5",
      
     },
     {
       id: 7,
       title: 'Galaxy',
       category: 'Pancake balls',
-      price: "4.5",
+      price: "5",
       
     },
     {
       id: 8,
       title: 'Hersheys',
       category: 'Pancake balls',
-      price: "4.5",
+      price: "5",
       
     },
     {
       id: 9,
       title: 'Kinder',
       category: 'Pancake balls',
-      price: "4",
+      price: "5",
      
     },
     {
         id: 10,
         title: 'Kinderini',
         category: 'Pancake balls',
-        price: "5.5",
+        price: "6",
        
       },
       {
         id: 11,
         title: 'Brownie',
         category: 'Pancake balls',
-        price: "4",
+        price: "4.5",
         
       },
       {
         id: 12,
         title: 'Bueno',
         category: 'Pancake balls',
-        price:"4.5",
+        price:"5",
         
       },
       {
         id: 13,
         title: 'Mars',
         category: 'Pancake balls',
-        price: "4",
+        price: "5",
        
       },
       {
         id: 14,
         title: 'Daim',
         category: 'Pancake balls',
-        price: "5",
+        price: "5.5",
        
       },
       {
         id: 15,
         title: 'Twix',
         category: 'Pancake balls',
-        price: "4",
+        price: "5",
        
       },
       {
@@ -118,28 +118,28 @@ const menu = [
         id: 17,
         title: 'Lotus',
         category: 'Pancake balls',
-        price: "4.5",
+        price: "5.5",
        
       },
       {
         id: 18,
         title: '2xFlavors',
         category: 'Pancake balls',
-        price: "4.5",
+        price: "6",
         
       },
       {
         id: 19,
         title: '3xFlavors',
         category: 'Pancake balls',
-        price: "5",
+        price: "6.5",
        
       },
       {
         id: 20,
         title: 'Overdose',
         category: 'Pancake balls',
-        price: "6",
+        price: "7",
        
       },
       {
@@ -153,77 +153,77 @@ const menu = [
         id: 22,
         title: 'Freezy',
         category: 'Freezy',
-        price: "4",
+        price: "4.5",
        
       },
       {
         id: 23,
         title: 'Plain',
         category: 'Tiramisu',
-        price: "3.5",
+        price: "4",
        
       },
       {
         id: 24,
         title: 'Oreo',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 25,
         title: 'Mars',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 26,
         title: 'Twix',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 27,
         title: 'Maltesers',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 28,
         title: 'KitKat',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 29,
         title: 'Crunch',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 30,
         title: 'Brownie',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 31,
         title: 'Lotus',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
         id: 32,
         title: 'Galaxy',
         category: 'Tiramisu',
-        price: "4.5",
+        price: "5",
        
       },
       {
